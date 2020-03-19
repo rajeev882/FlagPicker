@@ -5,15 +5,15 @@
 * 	[Maven](https://maven.apache.org/) - Dependency Management
 * 	Spring Web MVC
 * 	Spring REST API
-* 	[Spring Boot](https://spring.io/projects/spring-boot) - Framework to ease the bootstrapping and development of new Spring Applications
 * 	Spring Profile Concept
-* 	[git](https://git-scm.com/) - Free and Open-Source distributed version control system 
+*  Spring Data JPA
 * 	Custom Cache Builder - i. Demo implementation using in-memory look up  ii Spring Data JPA implementation
 * 	Global Exception Handler (Controller Advice Spring AOP)
 * 	Junit using Mokito
 * 	Interface Based implementation 
 * 	[Swagger](https://swagger.io/) - Open-Source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
-
+* [Spring Boot](https://spring.io/projects/spring-boot) - Framework to ease the bootstrapping and development of new Spring Applications
+* 	[git](https://git-scm.com/) - Free and Open-Source distributed version control system 
 
 ## Running the application locally
 
